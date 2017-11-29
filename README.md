@@ -12,7 +12,8 @@ In result.txt for every word-pair, first word-pair is printed and then its gener
 
 Then, we can check accuracy from this file.
 
-#To check the accuracy 
+# To check the accuracy 
+Run the code accuracy.py
 python accuracy.py < result.txt
 
 
