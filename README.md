@@ -1,6 +1,6 @@
 # Detecting-General-Word-in-a-Word-Pair
 
-Link to download Dataset <br /> : https://drive.google.com/open?id=1s9e10VkZUFAdIgV3J-yf94_pEs2og27F
+Link to download Dataset : <br />https://drive.google.com/open?id=1s9e10VkZUFAdIgV3J-yf94_pEs2og27F
 
 Input file is in Dataset directory (output.txt).
 This file contains a Word-Pair in every line in which first word is always general word.
